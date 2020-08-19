@@ -1,0 +1,12 @@
+com\app\movies\error\MovieExceptionHandler.class
+com\app\movies\model\MovieDto.class
+com\app\movies\controller\MovieController.class
+com\app\movies\repository\MovieRepository.class
+com\app\movies\error\IdDoesNotExistException.class
+com\app\movies\error\InvalidRatingException.class
+com\app\movies\model\MovieDto$1.class
+com\app\movies\model\MovieDto$MovieDtoBuilder.class
+com\app\movies\service\MovieService.class
+com\app\movies\entity\Movie.class
+com\app\movies\App.class
+com\app\movies\service\MovieServiceImpl.class

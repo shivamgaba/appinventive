@@ -1,0 +1,10 @@
+E:\WS-template\movies\src\main\java\com\app\movies\entity\Movie.java
+E:\WS-template\movies\src\main\java\com\app\movies\error\InvalidRatingException.java
+E:\WS-template\movies\src\main\java\com\app\movies\App.java
+E:\WS-template\movies\src\main\java\com\app\movies\error\MovieExceptionHandler.java
+E:\WS-template\movies\src\main\java\com\app\movies\controller\MovieController.java
+E:\WS-template\movies\src\main\java\com\app\movies\model\MovieDto.java
+E:\WS-template\movies\src\main\java\com\app\movies\service\MovieServiceImpl.java
+E:\WS-template\movies\src\main\java\com\app\movies\service\MovieService.java
+E:\WS-template\movies\src\main\java\com\app\movies\repository\MovieRepository.java
+E:\WS-template\movies\src\main\java\com\app\movies\error\IdDoesNotExistException.java
